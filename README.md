@@ -1,3 +1,3 @@
 # node
-通过node编写简单的get请求接口方便前端使用
-启动node  npm run start
+通过node编写请求接口方便前端使用
+启动脚本  node .\product.js
